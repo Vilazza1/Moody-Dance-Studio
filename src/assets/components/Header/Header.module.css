@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    flex-direction: row-reverse; /* <-- inverte a ordem */
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 1em;
+    background-color: var(--preto);
+    border: solid 1px var(--cinza);
+}

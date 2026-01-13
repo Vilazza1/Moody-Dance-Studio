@@ -1,0 +1,12 @@
+:root {
+  --preto: #000000;
+  --branco: #ffffff;
+  --cinza : #575757
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
